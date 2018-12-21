@@ -1,51 +1,51 @@
-# HistÛrico de Consumo
+# Hist√≥rico de Consumo
 
 ### Resumo/Objetivos
 
-Est· aplicaÁ„o tem como objeto fazer com que o usuario possa ter um histÛrico do seu consumo de energia e de quanto est· gastando com esse serviÁo. Est· aplicaÁ„o È ˙til para que o usu·rio possa ter um controle financeiro melhor e que possa tomar decisıes baseadas no seu histÛrio mensal de gastos.
+Est√° aplica√ß√£o tem como objeto fazer com que o usuario possa ter um hist√≥rico do seu consumo de energia e de quanto est√° gastando com esse servi√ßo. Est√° aplica√ß√£o √© √∫til para que o usu√°rio possa ter um controle financeiro melhor e que possa tomar decis√µes baseadas no seu hist√≥rio mensal de gastos.
 
-### Manual para uso da aplicaÁ„o desenvolvida em QT com finalidade de criar um histÛrico de consumo de energia 
+### Manual para uso da aplica√ß√£o desenvolvida em QT com finalidade de criar um hist√≥rico de consumo de energia 
 
-A tela inicial da aplicaÁ„o (como mostra na figura abaixo) deve ser preenchida pelo usu·rio.
+A tela inicial da aplica√ß√£o (como mostra na figura abaixo) deve ser preenchida pelo usu√°rio.
 
-![](figuras/tela_inicial.JPG)
+![](C:/Users/jessl/Desktop/qt_historico_de_consumo-2/figuras/tela_inicial.JPG)
 
-Esses dados podem ser encontrado em sua conta de energia. A figura abaixo, mostra os dados as serem preenchidos na aplicaÁ„o:
+Esses dados podem ser encontrado em sua conta de energia. A figura abaixo, mostra os dados as serem preenchidos na aplica√ß√£o:
 
 ![](figuras/conta_de_energia.png)
 
-ApÛs preenchido todos os dados, o usu·rio deve precionar o bot„o "Inserir Dados", para que a tebela seja preenchida e consequentemente calcular o seu consumo (KWh) e o valor aproximado de sua conta de energia.
+Ap√≥s preenchido todos os dados, o usu√°rio deve precionar o bot√£o "Inserir Dados", para que a tebela seja preenchida e consequentemente calcular o seu consumo (KWh) e o valor aproximado de sua conta de energia.
 
-OBS.: No valor aproximado, j· esta sendo somado os R$23,00 da contribuiÁ„o de serviÁo de iluminaÁ„o p˙blica.
+OBS.: No valor aproximado, j√° esta sendo somado os R$23,00 da contribui√ß√£o de servi√ßo de ilumina√ß√£o p√∫blica.
 
-# Botıes da p·gina inicial da AplicaÁ„o
+# Bot√µes da p√°gina inicial da Aplica√ß√£o
 
 ### Iserir Dados
 
-Como j· mencionado acima, o bot„o Inserir Dados apÛs precionado, preenche a tabela com as informaÁıes do usu·rio.
+Como j√° mencionado acima, o bot√£o Inserir Dados ap√≥s precionado, preenche a tabela com as informa√ß√µes do usu√°rio.
 
 ### Ordenar por Valor
 
-O bot„o "Ordenar por Valor" apÛs precionado ordena a tabela de dados de forma decrescente. Ou seja, do maior valor aproximado para o menor.
+O bot√£o "Ordenar por Valor" ap√≥s precionado ordena a tabela de dados de forma decrescente. Ou seja, do maior valor aproximado para o menor.
 
 ### Ordenar por Consumo
 
-O bot„o "Ordenar por Consumo" apÛs precionado ordena a tabela de dados tambÈm de forma decrescente, porÈm levando em consideraÁ„o o consumo. Ou seja, do maior Consumo para o menor.
+O bot√£o "Ordenar por Consumo" ap√≥s precionado ordena a tabela de dados tamb√©m de forma decrescente, por√©m levando em considera√ß√£o o consumo. Ou seja, do maior Consumo para o menor.
 
-Na figura abaixo temos um exemplo da funÁ„o Ordenar por Consumo:
+Na figura abaixo temos um exemplo da fun√ß√£o Ordenar por Consumo:
 
 ![](figuras/ordenar_por_consumo.JPG)
 
-# Aba de EstatÌsticas
+# Aba de Estat√≠sticas
 
-A aplicaÁ„o tambÈm conta com uma aba para mostrar as estatÌsticas do turma.
+A aplica√ß√£o tamb√©m conta com uma aba para mostrar as estat√≠sticas do turma.
 
 ![](figuras/tela_de_estatisticas.JPG)
 
-Como pode ser visto na figura acima, a aba de estatisca conta com MÈdia de Consumo (Calcula a mÈdia dos consumos em KWh preenchidos na tabela), Total de Consumo (Soma todos os consumos em KWh preenchidos na tabela) e Total Pago (Soma de todos os valores aproximados preenchidos na tabela).
+Como pode ser visto na figura acima, a aba de estatisca conta com M√©dia de Consumo (Calcula a m√©dia dos consumos em KWh preenchidos na tabela), Total de Consumo (Soma todos os consumos em KWh preenchidos na tabela) e Total Pago (Soma de todos os valores aproximados preenchidos na tabela).
 
 # Exportar e Carregar
 
-Esta aplicaÁ„o tambÈm consta com as opÁıes de Exportar e Carregar arquivos. A opÁ„o "Exportar" salva as informaÁıes que constam na tabela em um arquivo no formato txt e a opÁ„o "Carregar" importa as informaÁıes que est„o em um arquivo salvo no seu Computador.
+Esta aplica√ß√£o tamb√©m consta com as op√ß√µes de Exportar e Carregar arquivos. A op√ß√£o "Exportar" salva as informa√ß√µes que constam na tabela em um arquivo no formato txt e a op√ß√£o "Carregar" importa as informa√ß√µes que est√£o em um arquivo salvo no seu Computador.
 
 ![](figuras/arquivo.png)
