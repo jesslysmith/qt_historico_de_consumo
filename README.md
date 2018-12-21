@@ -8,7 +8,7 @@ Está aplicação tem como objeto fazer com que o usuario possa ter um históric
 
 A tela inicial da aplicação (como mostra na figura abaixo) deve ser preenchida pelo usuário.
 
-![](C:/Users/jessl/Desktop/qt_historico_de_consumo-2/figuras/tela_inicial.JPG)
+![](figuras/tela_inicial.JPG)
 
 Esses dados podem ser encontrado em sua conta de energia. A figura abaixo, mostra os dados as serem preenchidos na aplicação:
 
