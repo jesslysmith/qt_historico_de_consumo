@@ -1,0 +1,1 @@
+# qt_historico_de_consumo
