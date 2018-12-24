@@ -42,10 +42,10 @@ A aplicação também conta com uma aba para mostrar as estatísticas desse hist
 
 ![](figuras/tela_de_estatisticas.JPG)
 
-Como pode ser visto na figura acima, a aba de estatisca conta com Média de Consumo (Calcula a média dos consumos em KWh preenchidos na tabela), Total de Consumo (Soma todos os consumos em KWh preenchidos na tabela) e Total Pago (Soma de todos os valores aproximados preenchidos na tabela).
+Como pode ser visto na figura acima, a aba de estatistica conta com Média de Consumo (Calcula a média dos consumos em KWh preenchidos na tabela), Total de Consumo (Soma todos os consumos em KWh preenchidos na tabela) e Total Pago (Soma de todos os valores aproximados preenchidos na tabela).
 
 # Exportar e Carregar
 
-Esta aplicação também consta com as opções de Exportar e Carregar arquivos. A opção "Exportar" salva as informações que constam na tabela em um arquivo no formato txt e a opção "Carregar" importa as informações que estão em um arquivo salvo no seu Computador.
+Esta aplicação também conta com as opções de Exportar e Carregar arquivos. A opção "Exportar" salva as informações que constam na tabela em um arquivo no formato txt e a opção "Carregar" importa as informações que estão em um arquivo salvo no seu Computador.
 
 ![](figuras/arquivo.png)
