@@ -20,7 +20,7 @@ OBS.: No valor aproximado, já esta sendo somado os R$23,00 da contribuição de
 
 # Botões da página inicial da Aplicação
 
-### Iserir Dados
+### Inserir Dados
 
 Como já mencionado acima, o botão Inserir Dados após precionado, preenche a tabela com as informações do usuário.
 
@@ -38,7 +38,7 @@ Na figura abaixo temos um exemplo da função Ordenar por Consumo:
 
 # Aba de Estatísticas
 
-A aplicação também conta com uma aba para mostrar as estatísticas do turma.
+A aplicação também conta com uma aba para mostrar as estatísticas desse histórico.
 
 ![](figuras/tela_de_estatisticas.JPG)
 
