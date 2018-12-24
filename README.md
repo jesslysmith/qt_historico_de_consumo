@@ -2,7 +2,7 @@
 
 ### Resumo/Objetivos
 
-Está aplicação tem como objeto fazer com que o usuario possa ter um histórico do seu consumo de energia e de quanto está gastando com esse serviço. Está aplicação é útil para que o usuário possa ter um controle financeiro melhor e que possa tomar decisões baseadas no seu histório mensal de gastos.
+Está aplicação tem como objeto fazer com que o usuario possa ter um histórico do seu consumo de energia e de quanto está gastando com esse serviço. Está aplicação é útil para que o usuário possa ter um controle financeiro melhor e que possa tomar decisões baseadas no seu histórico mensal de gastos.
 
 ### Manual para uso da aplicação desenvolvida em QT com finalidade de criar um histórico de consumo de energia 
 
